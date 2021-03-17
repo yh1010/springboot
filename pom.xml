@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.5.RELEASE</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.yanghao.boot</groupId>
+    <artifactId>yanghao-boot</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <!--为项目单独设置阿里云maven库-->
+    <repositories>
+        <repository>
+            <id>public</id>
+            <name>aliyun nexus</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>public</id>
+            <name>aliyun nexus</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
+
+    <modules>
+        <module>yanghao-boot-config</module>
+        <module>yanghao-boot-helloworld</module>
+        <module>yanghao-boot-logs</module>
+        <module>yanghao-boot-rabbitmq-test</module>
+        <module>rabbitmq-direct-consumer</module>
+        <module>rabbitmq-direct-provider</module>
+        <module>rabbitmq-topic-consumer</module>
+        <module>rabbitmq-topic-provider</module>
+        <module>rabbitmq-fanout-consumer</module>
+        <module>rabbitmq-fanout-provider</module>
+        <module>yanghao-boot-async</module>
+        <module>yanghao-boot-swagger</module>
+        <module>yanghao-boot-commons</module>
+        <module>yanghao-boot-mybatis-generator</module>
+        <module>yanghao-boot-mybatis-multi-datasource</module>
+        <module>yanghao-boot-ioc</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

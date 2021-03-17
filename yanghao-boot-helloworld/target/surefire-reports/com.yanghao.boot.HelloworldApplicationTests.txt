@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yanghao.boot.HelloworldApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.581 s - in com.yanghao.boot.HelloworldApplicationTests

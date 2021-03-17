@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rabbitmq-direct-provider" />
+        <module name="yanghao-boot-swagger" />
+        <module name="rabbitmq-fanout-consumer" />
+        <module name="yanghao-boot-ioc" />
+        <module name="yanghao-boot-config" />
+        <module name="rabbitmq-direct-consumer" />
+        <module name="yanghao-boot-mybatis-multi-datasource" />
+        <module name="yanghao-boot-mybatis" />
+        <module name="yanghao-boot-commons" />
+        <module name="yanghao-boot-logs" />
+        <module name="yanghao-boot-helloworld" />
+        <module name="yanghao-boot-mybatis-generator" />
+        <module name="yanghao-boot-async" />
+        <module name="rabbitmq-topic-consumer" />
+        <module name="rabbitmq-topic-provider" />
+        <module name="rabbitmq-fanout-provider" />
+        <module name="yanghao-boot-rabbitmq-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="helloworld" target="1.8" />
+      <module name="rabbitmq-direct-consumer" target="1.8" />
+      <module name="rabbitmq-direct-provider" target="1.8" />
+      <module name="rabbitmq-fanout-consumer" target="1.8" />
+      <module name="rabbitmq-fanout-provider" target="1.8" />
+      <module name="rabbitmq-topic-consumer" target="1.8" />
+      <module name="rabbitmq-topic-provider" target="1.8" />
+      <module name="yanghao-boot" target="1.8" />
+      <module name="yanghao-boot-async" target="1.8" />
+      <module name="yanghao-boot-commons" target="1.8" />
+      <module name="yanghao-boot-config" target="1.8" />
+      <module name="yanghao-boot-config (1)" target="1.8" />
+      <module name="yanghao-boot-helloworld" target="1.8" />
+      <module name="yanghao-boot-ioc" target="1.8" />
+      <module name="yanghao-boot-log" target="1.8" />
+      <module name="yanghao-boot-logs" target="1.8" />
+      <module name="yanghao-boot-mybatis" target="1.8" />
+      <module name="yanghao-boot-mybatis-generator" target="1.8" />
+      <module name="yanghao-boot-mybatis-multi-datasource" target="1.8" />
+      <module name="yanghao-boot-rabbitmq-test" target="1.8" />
+      <module name="yanghao-boot-swagger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="helloworld" options="-parameters" />
+      <module name="rabbitmq-direct-consumer" options="-parameters" />
+      <module name="rabbitmq-direct-provider" options="-parameters" />
+      <module name="rabbitmq-fanout-consumer" options="-parameters" />
+      <module name="rabbitmq-fanout-provider" options="-parameters" />
+      <module name="rabbitmq-topic-consumer" options="-parameters" />
+      <module name="rabbitmq-topic-provider" options="-parameters" />
+      <module name="yanghao-boot" options="-parameters" />
+      <module name="yanghao-boot-async" options="-parameters" />
+      <module name="yanghao-boot-commons" options="-parameters" />
+      <module name="yanghao-boot-config" options="-parameters" />
+      <module name="yanghao-boot-helloworld" options="-parameters" />
+      <module name="yanghao-boot-ioc" options="-parameters" />
+      <module name="yanghao-boot-log" options="-parameters" />
+      <module name="yanghao-boot-logs" options="-parameters" />
+      <module name="yanghao-boot-mybatis" options="-parameters" />
+      <module name="yanghao-boot-mybatis-generator" options="-parameters" />
+      <module name="yanghao-boot-mybatis-multi-datasource" options="-parameters" />
+      <module name="yanghao-boot-rabbitmq-test" options="-parameters" />
+      <module name="yanghao-boot-swagger" options="-parameters" />
+    </option>
+  </component>
+</project>

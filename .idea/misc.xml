@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-direct-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-direct-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-topic-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-topic-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-fanout-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-fanout-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-async/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

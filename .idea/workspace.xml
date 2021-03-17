@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed43691-f3b4-41c0-b98e-edc388b2d41e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-config/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-helloword/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-log/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-logs/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-rabbitmq-test/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-direct-provider/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-direct-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-topic-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-topic-provider/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-fanout-provider/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-fanout-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-async/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-swagger/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-commons/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-mybatis-generator/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-ioc-configuration/target/" />
+    <ignored path="$PROJECT_DIR$/yanghao-boot-ioc/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MapperScannerRegist</find>
+      <find>configuration</find>
+      <find>configurationClasspost</find>
+      <find>beandefinition</find>
+      <find>postProcessBeanDefinitionRegistry</find>
+      <find>mapperscannerregistr</find>
+      <find>beanDef</find>
+      <find>scanner</find>
+      <find>annoAttrs</find>
+      <find>do</find>
+      <find>importPackage</find>
+      <find>processImport</find>
+      <find>processProcessingInstruction</find>
+      <find>get</find>
+      <find>loadImpl</find>
+      <find>packages.add</find>
+      <find>basePackages</find>
+      <find>BasePackages</find>
+      <find>argsToUse</find>
+      <find>AUTO</find>
+      <find>A</find>
+      <find>argsHolder</find>
+      <find>mapper</find>
+      <find>ClassPathBeanDefinitionScanner</find>
+      <find>ClassPathMnScanner</find>
+      <find>AutoConfiguredMapper</find>
+      <find>packages</find>
+      <find>AutoConfigurationPackages</find>
+      <find>MybatisAutoConfiguration</find>
+      <find>AutoConfiguredMapperScannerRegistrar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yanghao-boot-swagger/src/main/java/com/yanghao/boot/vo/UserVO.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-swagger/src/main/java/com/yanghao/boot/annotations/SexValidator.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-swagger/src/main/java/com/yanghao/boot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-commons/src/main/java/com/yanghao/boot/exception/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-generator/sql/boot_user.sql" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-generator/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/src/main/java/com/yanghao/boot/BootMybatisApplication.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/src/main/java/com/yanghao/boot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/src/main/java/com/yanghao/boot/entity/User.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/src/main/java/com/yanghao/boot/service/UserService.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/sql/datasource.sql" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/resources/application.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-generator/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-generator/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/config/MybatisConfiguration.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/account/xml/CapitalAccountMapper.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/redaccount/xml/RedPacketAccountMapper.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis/src/main/java/com/yanghao/boot/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/redaccount/mapper/RedPacketAccountMapper.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/account/mapper/CapitalAccountMapper.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/BootMybatisMultiDatasourceApplication.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/Application.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/config/RedPacketDataSourceConfiguration.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/config/AccountDataSourceConfiguration.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/redaccount/RedPacketAccountMapper.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/account/CapitalAccountMapper.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/service/PayService.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/main/java/com/yanghao/boot/MyConfiguration.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/main/java/com/yanghao/boot/main.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/main/java/com/yanghao/boot/UserBean.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/main/java/com/yanghao/boot/UserService.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/main/java/com/yanghao/boot/Main.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-helloworld/src/main/java/com/yanghao/boot/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports/UserBean.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports/Main.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports/UserService.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/UserImportSelector.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/EnableUserConfig.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/UserConfig.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/Main.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/Main.java" />
+        <option value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/Mains.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="348" />
+    <option name="y" value="31" />
+    <option name="width" value="647" />
+    <option name="height" value="633" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yanghao-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yanghao-boot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26091954" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis-multi-datasource\src\main\java\com\yanghao\boot\mapper\account\xml" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis-multi-datasource\src\main\java\com\yanghao\boot\mapper\redaccount\xml" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis-multi-datasource\src\main\java\com\yanghao\boot\mapper" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis-multi-datasource\src\main\java\com\yanghao\boot\mapper\redAccount\xml" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis-multi-datasource\src\main\java\com\yanghao\boot\mapper\redAccount" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yanghao.boot" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yanghao.boot.imports" />
+      <recent name="com.yanghao.boot.consumer" />
+      <recent name="com.yanghao.boot.provider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-ioc\src\main\java\com\yanghao\boot\imports" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis-multi-datasource\src\main\java\com\yanghao\boot" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-mybatis\src\main\java\com\yanghao\boot" />
+      <recent name="D:\微服务\yanghao-boot\yanghao-boot-swagger\src\main\java\com\yanghao\boot" />
+      <recent name="D:\微服务\yanghao-boot\rabbitmq-fanout-consumer\src\main\java\com\yanghao\boot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18097448" />
+  </component>
+  <component name="RunManager" selected="Application.Mains">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghao.boot.Main" />
+      <module name="yanghao-boot-ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghao.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yanghao.boot.importSelector.Mains" />
+      <module name="yanghao-boot-ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghao.boot.importSelector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicProviderApplicationTests.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq-topic-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghao.boot.BootMybatisApplication" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yanghao.boot" />
+      <option name="MAIN_CLASS_NAME" value="com.yanghao.boot.TopicProviderApplicationTests" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yanghao-boot-mybatis-multi-datasource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yanghao.boot.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootAsyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-async" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.async.BootAsyncApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootCommonsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-commons" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.BootCommonsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.BootMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-rabbitmq-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.BootRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.BootSwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-direct-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FanoutConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-fanout-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.FanoutConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FanoutProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-fanout-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.FanoutProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisGeneratorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-mybatis-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.MybatisGeneratorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-direct-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-topic-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.TopicConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-topic-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.TopicProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YanghaoBootIocConfigurationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="yanghao-boot-ioc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yanghao.boot.YanghaoBootIocConfigurationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Mains" />
+      <item itemvalue="JUnit.TopicProviderApplicationTests.send" />
+      <item itemvalue="Spring Boot.BootAsyncApplication" />
+      <item itemvalue="Spring Boot.BootCommonsApplication" />
+      <item itemvalue="Spring Boot.BootMybatisApplication" />
+      <item itemvalue="Spring Boot.BootRabbitmqApplication" />
+      <item itemvalue="Spring Boot.BootSwaggerApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.FanoutConsumerApplication" />
+      <item itemvalue="Spring Boot.FanoutProviderApplication" />
+      <item itemvalue="Spring Boot.MybatisGeneratorApplication" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+      <item itemvalue="Spring Boot.TopicConsumerApplication" />
+      <item itemvalue="Spring Boot.TopicProviderApplication" />
+      <item itemvalue="Spring Boot.YanghaoBootIocConfigurationApplication" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mains" />
+        <item itemvalue="Application.Mains" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed43691-f3b4-41c0-b98e-edc388b2d41e" name="Default Changelist" comment="" />
+      <created>1583419036007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583419036007</updated>
+      <workItem from="1583419040080" duration="7322000" />
+      <workItem from="1583501631923" duration="766000" />
+      <workItem from="1583502442588" duration="7181000" />
+      <workItem from="1583509719074" duration="5136000" />
+      <workItem from="1583646922873" duration="2913000" />
+      <workItem from="1584090168127" duration="7914000" />
+      <workItem from="1584182807128" duration="2899000" />
+      <workItem from="1584341418305" duration="8853000" />
+      <workItem from="1584352768334" duration="8677000" />
+      <workItem from="1584422793690" duration="678000" />
+      <workItem from="1584423568057" duration="22031000" />
+      <workItem from="1584524995921" duration="23142000" />
+      <workItem from="1584635897499" duration="8415000" />
+      <workItem from="1584679008664" duration="1009000" />
+      <workItem from="1584680367307" duration="251000" />
+      <workItem from="1584680662479" duration="5608000" />
+      <workItem from="1584707809264" duration="442000" />
+      <workItem from="1584708325917" duration="1273000" />
+      <workItem from="1584709676080" duration="16643000" />
+      <workItem from="1584855729373" duration="4904000" />
+      <workItem from="1584945981808" duration="3894000" />
+      <workItem from="1615985079950" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BootRabbitmqApplicationTests_send - 2020.03.13 at 18h 58m 50s.xml">
+      <configuration name="BootRabbitmqApplicationTests.send" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootRabbitmqApplicationTests - 2020.03.13 at 19h 12m 54s.xml">
+      <configuration name="BootRabbitmqApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootRabbitmqApplicationTests - 2020.03.13 at 19h 13m 46s.xml">
+      <configuration name="BootRabbitmqApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BootRabbitmqApplicationTests - 2020.03.13 at 19h 26m 21s.xml">
+      <configuration name="BootRabbitmqApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProviderApplicationTests - 2020.03.16 at 15h 11m 21s.xml">
+      <configuration name="ProviderApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProviderApplicationTests - 2020.03.16 at 15h 14m 46s.xml">
+      <configuration name="ProviderApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopicProviderApplicationTests - 2020.03.16 at 16h 57m 33s.xml">
+      <configuration name="TopicProviderApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopicProviderApplicationTests_send - 2020.03.16 at 16h 58m 54s.xml">
+      <configuration name="TopicProviderApplicationTests.send" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FanoutProviderApplicationTests - 2020.03.16 at 17h 46m 40s.xml">
+      <configuration name="FanoutProviderApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FanoutProviderApplicationTests - 2020.03.16 at 18h 04m 41s.xml">
+      <configuration name="FanoutProviderApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140003000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="5" weight="0.329296" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.4980695" visible="true" weight="0.26797882" />
+      <window_info id="JRebel" order="8" sideWeight="0.5019305" side_tool="true" weight="0.25586677" />
+      <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50075644" side_tool="true" weight="0.6541738" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.40545145" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="8" />
+      <window_info anchor="bottom" id="JRebel Executor" order="9" />
+      <window_info anchor="bottom" id="JRebel Console" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="11" />
+      <window_info anchor="bottom" id="Find" order="12" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.681431" />
+      <window_info anchor="bottom" id="Debug" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="15" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="bottom" id="Run Dashboard" order="18" sideWeight="0.49924356" weight="0.7376491" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Alibaba ROS Templates" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Alibaba Log Console" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32399696" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.24905375" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.329296" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="5" weight="0.329296" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4980695" visible="true" weight="0.25586677" />
+      <window_info id="JRebel" order="8" sideWeight="0.5019305" side_tool="true" weight="0.25586677" />
+      <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50075644" side_tool="true" weight="0.6541738" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.40545145" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="8" />
+      <window_info anchor="bottom" id="JRebel Executor" order="9" />
+      <window_info anchor="bottom" id="JRebel Console" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="11" />
+      <window_info anchor="bottom" id="Find" order="12" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.681431" />
+      <window_info anchor="bottom" id="Debug" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="15" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="18" sideWeight="0.49924356" visible="true" weight="0.43270868" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Alibaba Log Console" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32399696" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.24905375" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.329296" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
+          <line>225</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
+          <line>318</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.class</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/fxml/FXMLLoader.java</url>
+          <line>2516</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/fxml/FXMLLoader.java</url>
+          <line>2840</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>basePackages.equals(&quot;com.yanghao.boot&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>beanName.equals(&quot;org.springframework.boot.autoconfigure.AutoConfigurationPackages&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>getMetadataReaderFactory()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getSqlSession().getMapper(this.mapperInterface)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scanCandidateComponents(basePackage)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/core/type/classreading/CachingMetadataReaderFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="62" column="77" selection-start-line="62" selection-start-column="77" selection-end-line="62" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE.jar!/org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/type/classreading/CachingMetadataReaderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="117" column="26" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/type/filter/TypeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.2.4.RELEASE/spring-core-5.2.4.RELEASE-sources.jar!/org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="73" column="66" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/config/MybatisConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/config/RedPacketDataSourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="21" column="65" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="271" column="46" selection-start-line="271" selection-start-column="40" selection-end-line="271" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/tk/mybatis/mapper-spring/1.0.4/mapper-spring-1.0.4-sources.jar!/tk/mybatis/spring/mapper/ClassPathMapperScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="141" column="92" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/account/CapitalAccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/tk/mybatis/mapper-spring-boot-autoconfigure/2.0.3/mapper-spring-boot-autoconfigure-2.0.3-sources.jar!/tk/mybatis/mapper/autoconfigure/MapperAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="206" column="27" lean-forward="true" selection-start-line="206" selection-start-column="27" selection-end-line="206" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="102" column="31" lean-forward="true" selection-start-line="102" selection-start-column="31" selection-end-line="102" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/mapper/redaccount/RedPacketAccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/config/AccountDataSourceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/service/PayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis-multi-datasource/src/main/java/com/yanghao/boot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/main/java/com/yanghao/boot/YanghaoBootIocConfigurationApplication.java" />
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc-configuration/src/test/java/com/yanghao/boot/YanghaoBootIocConfigurationApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/stereotype/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/configuration/MyConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/configuration/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#UserBean#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/configuration/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/imports/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="71" column="62" lean-forward="true" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.2.4.RELEASE/spring-context-5.2.4.RELEASE-sources.jar!/org/springframework/context/annotation/DeferredImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-helloworld/src/main/java/com/yanghao/boot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/configuration/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/RoleBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/UsersBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/EnableUserConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/UserConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/Mains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-ioc/src/main/java/com/yanghao/boot/importSelector/UserImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-swagger/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-async/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanghao-boot-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rabbitmq-direct-consumer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26091954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
